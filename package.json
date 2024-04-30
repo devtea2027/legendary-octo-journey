@@ -6,7 +6,7 @@
   "author": "sourceressj2",
   "license": "MIT",
   "dependencies": {
-    "@libphamton/chatfanpage": "1.0.5",
+    "@libphamton/chatfanpage": "1.0.2",
     "@libphamton/fb-group": "1.0.3"
   },
   "keywords": [
