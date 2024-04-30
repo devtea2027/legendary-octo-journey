@@ -1,0 +1,23 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@libphamton/chatfanpage':
+    specifier: 1.0.2
+    version: 1.0.2
+  '@libphamton/fb-group':
+    specifier: 1.0.5
+    version: 1.0.5
+
+packages:
+
+  /@libphamton/chatfanpage@1.0.2:
+    resolution: {integrity: sha512-9YlYh+jb0qL2RC7DOoF1dXqb1+neKFvFcWe7NNEo6ppx/HNkrmqJiqZYvZgmajYAXRRySkuLBs+kSiRLs33D0g==}
+    dev: false
+
+  /@libphamton/fb-group@1.0.5:
+    resolution: {integrity: sha512-Cv2AxyI1UaZ7zNSHVklkyS+Q1+33KQ1MnqVu0xfdAM3kkiHwdpfzUZLOWlLrUq72bVN0VinUAhiAf3seZ+qeeQ==}
+    dev: false
