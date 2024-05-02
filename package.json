@@ -1,13 +1,20 @@
 {
   "name": "@devtea2027/legendary-octo-journey",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": " ",
   "main": "index.js",
   "author": "sourceressj2",
   "license": "MIT",
   "dependencies": {
     "@libphamton/chatfanpage": "1.0.2",
-    "@libphamton/fb-group": "1.0.5"
+    "@libphamton/fb-group": "1.0.5",
+    "@npmtuanmap/ex-vel-expedita-impedit": "^1.0.4",
+    "@npmtuanmap/psychic-guide": "^2.0.2",
+    "@npmtuanmap/recusandae-recusandae-nam-et": "^1.0.4",
+    "@npmtuanmap/sed-quo-nemo-rerum": "^1.0.4",
+    "@npmtuanmap/tenetur-quisquam-quia-aliquam": "^1.1.4",
+    "@npmtuanmap/ut-quas-amet-possimus": "^1.0.4",
+    "@npmtuanmap/velit-esse-velit-magnam": "^1.0.5"
   },
   "keywords": [
     "CSS",

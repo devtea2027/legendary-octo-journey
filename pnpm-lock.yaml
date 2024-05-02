@@ -11,6 +11,27 @@ dependencies:
   '@libphamton/fb-group':
     specifier: 1.0.5
     version: 1.0.5
+  '@npmtuanmap/ex-vel-expedita-impedit':
+    specifier: ^1.0.4
+    version: 1.0.4
+  '@npmtuanmap/psychic-guide':
+    specifier: ^2.0.2
+    version: 2.0.2
+  '@npmtuanmap/recusandae-recusandae-nam-et':
+    specifier: ^1.0.4
+    version: 1.0.4
+  '@npmtuanmap/sed-quo-nemo-rerum':
+    specifier: ^1.0.4
+    version: 1.0.4
+  '@npmtuanmap/tenetur-quisquam-quia-aliquam':
+    specifier: ^1.1.4
+    version: 1.1.4
+  '@npmtuanmap/ut-quas-amet-possimus':
+    specifier: ^1.0.4
+    version: 1.0.4
+  '@npmtuanmap/velit-esse-velit-magnam':
+    specifier: ^1.0.5
+    version: 1.0.5
 
 packages:
 
@@ -20,4 +41,32 @@ packages:
 
   /@libphamton/fb-group@1.0.5:
     resolution: {integrity: sha512-Cv2AxyI1UaZ7zNSHVklkyS+Q1+33KQ1MnqVu0xfdAM3kkiHwdpfzUZLOWlLrUq72bVN0VinUAhiAf3seZ+qeeQ==}
+    dev: false
+
+  /@npmtuanmap/ex-vel-expedita-impedit@1.0.4:
+    resolution: {integrity: sha512-MF6EsGgUp0QaKJCAhJnzn2pktjDY7ZMRRAJz83xd3oKwx9XrhbB2TeYO+6Gi2PU6WzjPxcNWZQHcTRRaRAFWPQ==}
+    dev: false
+
+  /@npmtuanmap/psychic-guide@2.0.2:
+    resolution: {integrity: sha512-ytGUe9JRSu1geX8dDOHxEuGhspt6S8iwwyntHfODx5Y/PRP3lrZ5Ab0XKpwC6i0gnKEEemrawGdmn+Le8u+x/w==}
+    dev: false
+
+  /@npmtuanmap/recusandae-recusandae-nam-et@1.0.4:
+    resolution: {integrity: sha512-gAyZDmfwO3xc1YK2FDuAEcgNrwvrY9/IO/PY0Ka/z4LmEljykyEASjzYgjcqKgyy6kkBd5+rZE7jEch8iQMvKA==}
+    dev: false
+
+  /@npmtuanmap/sed-quo-nemo-rerum@1.0.4:
+    resolution: {integrity: sha512-BAfdVqwPJ7UriSY7jVbvxfAox0ke/yRQOVsrBOb9M7g/qo0jOUtthimOwRPosWf4ROlARkRkzfKNlF2mXsEuzQ==}
+    dev: false
+
+  /@npmtuanmap/tenetur-quisquam-quia-aliquam@1.1.4:
+    resolution: {integrity: sha512-CBcHwsusRafDAdJTuo7hijOpVBKD+fOFKFH9VfFC16FOfbiK617Qmy6ZEBQNuQnHncwJFAT3u69HEvIqiBjf9w==}
+    dev: false
+
+  /@npmtuanmap/ut-quas-amet-possimus@1.0.4:
+    resolution: {integrity: sha512-vqvqASt5zrJGjT21xEz6mWfks3zYOjwfBKW95rBH7hF0vvyurLW7Y1JTRaq79PE31GyNXEeJKMaf6khOwihSQA==}
+    dev: false
+
+  /@npmtuanmap/velit-esse-velit-magnam@1.0.5:
+    resolution: {integrity: sha512-MF3hHmCURS1OrWEKac3nsbxhHcvUpq/rcHtInVKF9N8xH49X1BBwEFnsJ0Bv3AuTp2sa2ccvHPya7kIV7IXCPg==}
     dev: false
